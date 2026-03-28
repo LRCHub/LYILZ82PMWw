@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "くちづけDiamond",
   "base_artist": "WEAVER",
-  "createdAt": "2026-03-28T12:32:34.279011Z",
+  "createdAt": "2026-03-28T15:13:49.803063Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,15 @@
       "artist": "WEAVER",
       "has_synced": false,
       "path": "select/pl_01_くちづけDiamond_WEAVER.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/localdb_01_くちづけDiamond_WEAVER.lrc",
+      "repo_name": "LYILZ82PMWw"
     }
   ]
 }
